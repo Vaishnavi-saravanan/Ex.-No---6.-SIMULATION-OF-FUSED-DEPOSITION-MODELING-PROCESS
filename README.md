@@ -86,18 +86,7 @@ he 3D model.
 Step 5:
 Start Process:
 
-![Uploading 1.png…]()
-![Uploading 1.png…]()
-![Uploading 1.png…]()
-
-![Uploading 1.png…]()
-
-
-
-
-
-
-
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541897/19e02357-4ce6-4c5f-8887-07207f3b8a7c)
 
 Explanation:
 Start the printing process:
@@ -114,8 +103,8 @@ If the model has overhangs or complex geometries that require support, the print
 
 Step 6:
 Stop Process:
-![Uploading image.png…]()
 
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541897/9a4ae47b-cd91-42b5-bd5b-06e394e6192b)
 
 Explanation:
 Cool down and remove support:
